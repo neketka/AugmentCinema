@@ -1,0 +1,16 @@
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\bin\Debug\AugmentCinemaFrontend.exe.config
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\bin\Debug\AugmentCinemaFrontend.exe
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\bin\Debug\AugmentCinemaFrontend.pdb
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.csprojResolveAssemblyReference.cache
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\MainWindow.g.cs
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\App.g.cs
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend_MarkupCompile.cache
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend_MarkupCompile.lref
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\MainWindow.baml
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.g.resources
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.Properties.Resources.resources
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.csproj.GenerateResource.Cache
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.exe
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.pdb
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\Window1.g.cs
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaFrontend\obj\Debug\Window1.baml
