@@ -5,8 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AugmentCinemaFrontend"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="MainWindow" Height="600" Width="800">
+    <Canvas HorizontalAlignment="Center" Height="432.4944375" Margin="10,30.304,13.121,0" VerticalAlignment="Top" Width="768.879">
+        <Button x:Name="Import_Object" Content="Import Object" Canvas.Left="29.939" Canvas.Top="463.905" Width="99.242" Height="41.172" RenderTransformOrigin="0.489,1.214"/>
+        <Button x:Name="Import_Object_Copy" Content="Create Scene" Canvas.Left="228.424" Canvas.Top="463.905" Width="99.242" Height="41.172" RenderTransformOrigin="0.489,1.214"/>
+        <Button x:Name="Import_Object_Copy1" Content="Take Video" Canvas.Left="445.09" Canvas.Top="463.905" Width="99.242" Height="41.172" RenderTransformOrigin="0.489,1.214"/>
+        <Button x:Name="Import_Object_Copy2" Content="Take Picture" Canvas.Left="645.091" Canvas.Top="463.905" Width="99.242" Height="41.172" RenderTransformOrigin="0.489,1.214"/>
+    </Canvas>
 </Window>
