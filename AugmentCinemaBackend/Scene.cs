@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AugmentCinemaBackend
 {
-    public class Class1
+    public class Scene
     {
+        public Scene()
+        {
+
+        }
     }
 }

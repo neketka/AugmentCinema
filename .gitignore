@@ -46,3 +46,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .vs/AugmentCinema/v15/.suo
+*.cache
+AugmentCinemaTest/obj/Debug/CoreCompileInputs.cache
+AugmentCinemaTest/obj/Debug/CoreCompileInputs.cache
+*.cache
+.vs/slnx.sqlite
+*.cache
+AugmentCinemaBackend/obj/Debug/CoreCompileInputs.cache
