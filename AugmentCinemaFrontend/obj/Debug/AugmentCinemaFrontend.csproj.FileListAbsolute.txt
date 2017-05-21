@@ -1,0 +1,12 @@
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\bin\Debug\AugmentCinemaFrontend.exe.config
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\bin\Debug\AugmentCinemaFrontend.exe
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\bin\Debug\AugmentCinemaFrontend.pdb
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.csprojResolveAssemblyReference.cache
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.Form1.resources
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.importExisting.resources
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.MainWindow.resources
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.ObjectLibrary.resources
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.Properties.Resources.resources
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.csproj.GenerateResource.Cache
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.exe
+C:\Users\VCRCV\OneDrive\Documents\GitHub\AugmentCinema\AugmentCinemaFrontend\obj\Debug\AugmentCinemaFrontend.pdb

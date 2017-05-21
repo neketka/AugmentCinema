@@ -16,7 +16,8 @@ namespace AugmentCinemaFrontend
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ObjectLibrary());
+            Application.Run(new MainWindow());
+
         }
     }
 }

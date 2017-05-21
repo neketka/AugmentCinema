@@ -29,14 +29,15 @@
         private void InitializeComponent()
         {
             this.scrollWindow = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.scroller = new System.Windows.Forms.HScrollBar();
-            this.selectButton = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.importButton = new System.Windows.Forms.Button();
+            this.importCancelButton = new System.Windows.Forms.Button();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.scrollWindow.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // scrollWindow
@@ -51,16 +52,6 @@
             this.scrollWindow.Size = new System.Drawing.Size(527, 214);
             this.scrollWindow.TabIndex = 0;
             this.scrollWindow.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.importButton);
-            this.panel2.Controls.Add(this.selectButton);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 182);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(527, 32);
-            this.panel2.TabIndex = 0;
             // 
             // panel3
             // 
@@ -79,25 +70,41 @@
             this.scroller.Size = new System.Drawing.Size(527, 19);
             this.scroller.TabIndex = 0;
             // 
-            // selectButton
+            // panel2
             // 
-            this.selectButton.Dock = System.Windows.Forms.DockStyle.Right;
-            this.selectButton.Location = new System.Drawing.Point(255, 0);
-            this.selectButton.Name = "selectButton";
-            this.selectButton.Size = new System.Drawing.Size(272, 32);
-            this.selectButton.TabIndex = 0;
-            this.selectButton.Text = "Select";
-            this.selectButton.UseVisualStyleBackColor = true;
+            this.panel2.Controls.Add(this.importCancelButton);
+            this.panel2.Controls.Add(this.importButton);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel2.Location = new System.Drawing.Point(0, 182);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(527, 32);
+            this.panel2.TabIndex = 0;
             // 
             // importButton
             // 
-            this.importButton.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.importButton.Dock = System.Windows.Forms.DockStyle.Left;
             this.importButton.Location = new System.Drawing.Point(0, 0);
             this.importButton.Name = "importButton";
-            this.importButton.Size = new System.Drawing.Size(255, 32);
+            this.importButton.Size = new System.Drawing.Size(264, 32);
             this.importButton.TabIndex = 1;
             this.importButton.Text = "Import";
             this.importButton.UseVisualStyleBackColor = true;
+            this.importButton.Click += new System.EventHandler(this.importButton_Click);
+            // 
+            // importCancelButton
+            // 
+            this.importCancelButton.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.importCancelButton.Location = new System.Drawing.Point(264, 0);
+            this.importCancelButton.Name = "importCancelButton";
+            this.importCancelButton.Size = new System.Drawing.Size(263, 32);
+            this.importCancelButton.TabIndex = 2;
+            this.importCancelButton.Text = "Cancel";
+            this.importCancelButton.UseVisualStyleBackColor = true;
+            this.importCancelButton.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
             // 
             // ObjectLibrary
             // 
@@ -110,8 +117,8 @@
             this.Text = "Object Library";
             this.Load += new System.EventHandler(this.ObjectLibrary_Load);
             this.scrollWindow.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -123,6 +130,7 @@
         private System.Windows.Forms.HScrollBar scroller;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button importButton;
-        private System.Windows.Forms.Button selectButton;
+        private System.Windows.Forms.Button importCancelButton;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
     }
 }

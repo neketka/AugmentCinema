@@ -44,7 +44,19 @@ namespace AugmentCinemaFrontend
 
         private void OpenObjectLibraryButton_Click(object sender, EventArgs e)
         {
+            ObjectLibrary hello = new ObjectLibrary();
+            hello.Show();
+        }
 
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            importExisting hi = new importExisting();
+            hi.Show();
         }
     }
 }
