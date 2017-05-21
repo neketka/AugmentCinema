@@ -32,11 +32,11 @@ namespace AugmentCinemaBackend
             shaderPass.SetUniform("sTexture", texture);
         }
 
-        public void Render(FBO f, int w, int h, Matrix4 camera, Matrix4 model)
+        public void Render(FBO f, float asp, Matrix4 camera, Matrix4 model)
         {
             shaderPass.SetFramebuffer(f);
             shaderPass.SetUniform("projection", Matrix4.CreatePerspectiveFieldOfView(MathHelper.DegreesToRadians(90f), 
-                (float)w / (float)h, 0.3f, 1000f));
+                asp, 0.3f, 1000f));
             shaderPass.SetUniform("camera", camera);
             shaderPass.SetUniform("model", model);
             shaderPass.RunPass();
