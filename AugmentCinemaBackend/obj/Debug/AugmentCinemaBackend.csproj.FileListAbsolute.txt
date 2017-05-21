@@ -1,0 +1,5 @@
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaBackend\bin\Debug\AugmentCinemaBackend.dll
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaBackend\bin\Debug\AugmentCinemaBackend.pdb
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaBackend\obj\Debug\AugmentCinemaBackend.csprojResolveAssemblyReference.cache
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaBackend\obj\Debug\AugmentCinemaBackend.dll
+C:\Users\armpi\OneDrive\Documents\Visual Studio 2017\Projects\AugmentCinema\AugmentCinemaBackend\obj\Debug\AugmentCinemaBackend.pdb

@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AugmentCinemaBackend", "AugmentCinemaBackend\AugmentCinemaBackend.csproj", "{5F76F15C-05E1-4636-B358-221417B5C16B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AugmentCinemaFrontend", "AugmentCinemaFrontend\AugmentCinemaFrontend.csproj", "{5D77797E-4C2A-4566-92A1-6BE3ABEF070C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AugmentCinemaTest", "AugmentCinemaTest\AugmentCinemaTest.csproj", "{9727F695-75E2-496C-8E87-2B84EB26D2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AugmentCinemaFrontend", "AugmentCinemaFrontend\AugmentCinemaFrontend.csproj", "{40269381-EF8F-4F69-ABE9-1634C99EB390}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{5F76F15C-05E1-4636-B358-221417B5C16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F76F15C-05E1-4636-B358-221417B5C16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F76F15C-05E1-4636-B358-221417B5C16B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D77797E-4C2A-4566-92A1-6BE3ABEF070C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D77797E-4C2A-4566-92A1-6BE3ABEF070C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D77797E-4C2A-4566-92A1-6BE3ABEF070C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D77797E-4C2A-4566-92A1-6BE3ABEF070C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9727F695-75E2-496C-8E87-2B84EB26D2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9727F695-75E2-496C-8E87-2B84EB26D2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9727F695-75E2-496C-8E87-2B84EB26D2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9727F695-75E2-496C-8E87-2B84EB26D2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40269381-EF8F-4F69-ABE9-1634C99EB390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40269381-EF8F-4F69-ABE9-1634C99EB390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40269381-EF8F-4F69-ABE9-1634C99EB390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40269381-EF8F-4F69-ABE9-1634C99EB390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
